@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd ./Server
 node setup
 cd ./lib
